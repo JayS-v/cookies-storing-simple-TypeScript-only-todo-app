@@ -1,6 +1,5 @@
 ## Project tree
 
-```
 ├── index.html                          
 ├── style.scss                         
 ├── tsconfig.json                                 
@@ -20,4 +19,3 @@
           ├── inputHelpers.ts                              
           └── listHelpers.ts
 
-```
