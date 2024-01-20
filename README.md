@@ -1,21 +1,21 @@
 ## Project tree
-
+```
 ├── index.html                          
 ├── style.scss                         
 ├── tsconfig.json                                 
-├── <u>images</u>                              
-├── <ins>public</ins>                              
-└── <strong>src</strong>                                               
+├── images                              
+├── public                             
+└── src                                              
     ├── index.ts                       
     ├── itemOperations.ts               
     ├── mainScripts.ts               
-    └── <ins>utils</ins> 
-      └── <ins>cookiesUtils</ins>  
+    └── utils
+      └── cookiesUtils
           ├── getCookieValueByName.ts               
           ├── loadPagefromCookies.ts                                  
           └── updateCookiesList.ts   
-      └── <ins>dom-helpers</ins>  
+      └── dom-helpers 
           ├── buttonHelpers.ts          
           ├── inputHelpers.ts                              
           └── listHelpers.ts
-
+```
