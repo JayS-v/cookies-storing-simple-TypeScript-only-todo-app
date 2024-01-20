@@ -4,7 +4,7 @@
 ├── index.html                          
 ├── style.scss                         
 ├── tsconfig.json                                 
-├── <ins>images</ins>                              
+├── <u>images</u>                              
 ├── <ins>public</ins>                              
 └── <strong>src</strong>                                               
     ├── index.ts                       
